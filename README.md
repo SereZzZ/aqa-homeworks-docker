@@ -1,3 +1,6 @@
+![image](https://github.com/SereZzZ/aqa-homeworks-docker/assets/156313890/4c105eed-28d6-499d-bc95-fe78f8f9544a)
+
+
 # Домашнее задание к занятию «3.1. Docker»
 
 **Важно**: прежде чем приступать, обязательно прочитайте [руководство по установке Docker](./installation.md).
